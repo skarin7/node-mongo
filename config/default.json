@@ -1,0 +1,7 @@
+{
+    "mongo_db": "cms_preprod_qa1",
+    "test.db": "cms_preprod_qa1",
+    "mongo_userName": "cms_preprod_qa1",
+    "mongo_password": "jn^nH987KLJj",
+    "mongo_url": "mongodb://qa-cmsmongo01.aws.phenom.local:27017/cms_preprod_qa1"
+}
