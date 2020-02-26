@@ -1,0 +1,4 @@
+interface BulkDataProcessor extends Processor {
+    
+    
+}
